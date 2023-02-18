@@ -10,3 +10,5 @@ pip install pyzbar
 pip install PyQRCode
 
 pip install pypng
+
+![tmpqjddltrj](https://user-images.githubusercontent.com/64791454/219874536-892d1ec6-4f9f-4d97-812f-5901d8e37223.png)
